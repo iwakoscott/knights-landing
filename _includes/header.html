@@ -11,6 +11,6 @@
      <!-- Favicon -->
     <link rel="shortcut icon" type="image/png" href="/logo.png"/>
 
-    <title>{{ site.title }} | {{ page.title }}</title>
+    <title>{{ site.title }}{% if page.title %} | {{ page.title }}{% else %}{% endif %}</title>
   </head>
   <body>
