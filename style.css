@@ -103,3 +103,8 @@ video {
 .fa-paw {
   color: #e58e26;
 }
+
+/* =============== Footer =============== */
+footer .container-fluid {
+  background: #f8f9fa;
+}
