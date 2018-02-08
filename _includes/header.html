@@ -15,42 +15,44 @@
   </head>
   <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-      <a class="navbar-brand" href="{{ site.url }}">
-        <img src="{{ site.logo }}" width="150" height="150" alt="logo">
-      </a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarNav">
-        <ul class="navbar-nav">
-          {% assign all = site.html_pages | group_by: "dir" %}
-          {% assign index = site.html_pages | group_by: "dir" | where: 'name', '/' %}
+      <div class="container">
+        <a class="navbar-brand mx-auto" href="{{ site.url }}">
+          <img src="{{ site.logo }}" width="150" height="150" alt="logo">
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav ml-auto">
+            {% assign all = site.html_pages | group_by: "dir" %}
+            {% assign index = site.html_pages | group_by: "dir" | where: 'name', '/' %}
 
-          {% for object in index %}
-            {% for item in object.items %}
-              {% unless item.name contains '404' or item.name contains 'index' %}
-                {% assign key = item.name | remove: '.markdown' | prepend: '/' | append: '/'%}
-                {% assign value = all | where: 'name', key %}
-                {% if value.size > 0 %}
-                  <li class="nav-item dropdown">
-                          <a class="nav-link dropdown-toggle" href="{{ item.url }}" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            {{ item.title }}
-                          </a>
-                          <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                            {% for dropdown_item in value[0].items %}
-                              <a class="dropdown-item" href="{{ dropdown_item.url }}">{{ dropdown_item.title }}</a>
-                            {% endfor %}
-                          </div>
-                  </li>
-                {% else %}
-                  <li class="nav-item">
-                    <a class="nav-link" href="{{item.url}}">{{item.title}}</a>
-                  </li>
-                {% endif %}
-              {% endunless %}
+            {% for object in index %}
+              {% for item in object.items %}
+                {% unless item.name contains '404' or item.name contains 'index' %}
+                  {% assign key = item.name | remove: '.markdown' | prepend: '/' | append: '/'%}
+                  {% assign value = all | where: 'name', key %}
+                  {% if value.size > 0 %}
+                    <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="{{ item.url }}" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                              {{ item.title }}
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                              {% for dropdown_item in value[0].items %}
+                                <a class="dropdown-item" href="{{ dropdown_item.url }}">{{ dropdown_item.title }}</a>
+                              {% endfor %}
+                            </div>
+                    </li>
+                  {% else %}
+                    <li class="nav-item">
+                      <a class="nav-link" href="{{item.url}}">{{item.title}}</a>
+                    </li>
+                  {% endif %}
+                {% endunless %}
+              {% endfor %}
             {% endfor %}
-          {% endfor %}
 
-        </ul>
+          </ul>
+        </div>
       </div>
     </nav>
