@@ -1,0 +1,101 @@
+
+/* =============== GLOBAL =============== */
+
+.fade-in {
+  animation: fade 1s ease-in;
+}
+
+@keyframes fade {
+  0% {
+    transform: translateY(100%);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0%);
+    opacity: 1;
+  }
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+  font-family: 'Amiko', sans-serif;
+}
+
+div {
+  display: block;
+}
+
+/* =============== Homepage =============== */
+
+.jumbotron {
+  position: relative;
+  height: 100%;
+  width: 100%;
+  color: white;
+  font-family: 'Roboto Slab', serif;
+  padding: 0px !important;
+  overflow: hidden;
+}
+
+figure {
+  margin: 0;
+}
+
+.red-cover {
+  background: #9b59b6;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  opacity: 0.75;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+}
+
+video {
+  object-fit: cover;
+}
+
+#background-video {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+  z-index: 0;
+}
+
+.captioning {
+  position: absolute;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 100%;
+  width: 100%;
+}
+
+.row {
+  padding: 25px;
+}
+
+.fa-male {
+  color: #0097e6;
+}
+
+.fa-tree {
+  color: #44bd32;
+}
+
+.fa-paw {
+  color: #e58e26;
+}
