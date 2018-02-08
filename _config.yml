@@ -21,5 +21,7 @@ theme: minima
 plugins:
 - jekyll-feed
 logo: "/uploads/logo.png"
-address: 9586 Mill Street Knights Landing, CA 95645
+address: |-
+  9586 Mill Street
+  Knights Landing, CA 95645
 phone: "(530) 421-8061"
