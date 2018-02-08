@@ -26,6 +26,10 @@ div {
   display: block;
 }
 
+.dropdown-menu {
+  white-space: normal;
+}
+
 /* =============== Homepage =============== */
 
 .jumbotron {
