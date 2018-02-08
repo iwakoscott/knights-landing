@@ -20,4 +20,4 @@ markdown: kramdown
 theme: minima
 plugins:
 - jekyll-feed
-logo: "./logo.png"
+logo: "/uploads/logo.png"
