@@ -26,8 +26,8 @@ div {
   display: block;
 }
 
-.dropdown-menu {
-  white-space: normal;
+.dropdown-item {
+  padding: .25rem .5rem !important;
 }
 
 /* =============== Homepage =============== */
