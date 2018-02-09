@@ -1,6 +1,10 @@
 
 /* =============== GLOBAL =============== */
 
+video::-webkit-media-controls {
+    display:none !important;
+}
+
 .fade-in {
   animation: fade 1s ease-in;
 }
