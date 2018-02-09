@@ -8,6 +8,16 @@
       <div class="col-12">
         {{ content }}
       </div>
+      <div class="jumbotron text-center p-5">
+        <h1>Up Coming Info Sessions</h1>
+        <ul>
+          {% for session in page.info-sessions %}
+            <li>
+              {{ session }}
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
     </div>
   </div>
 
