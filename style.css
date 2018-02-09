@@ -123,9 +123,9 @@ footer .container-fluid {
 
 .undergraduate-volunteer-application .jumbotron {
   background-color: #9b59b6;
-  color: white;
 }
 
 .undergraduate-volunteer-application h1 {
   font-family: 'Roboto Slab', serif;
+  color: white;
 }
