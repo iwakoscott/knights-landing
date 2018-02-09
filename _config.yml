@@ -26,5 +26,6 @@ phone: "(530) 421-8061"
 paypalURL: https://www.paypal.com/us/home
 important dates:
 - name: Rideshare
-  start date: 2018-02-09 16:00:00.000000000 Z
+  start date: 2018-02-09 18:00:00.000000000 Z
+  end date: 2018-02-09 20:00:00.000000000 Z
   alert: Rideshare from Umall!
