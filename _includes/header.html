@@ -19,7 +19,7 @@
     <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/style.css"/>
     <title>{% if site.title %}{{site.title}}{% else %}{% endif %}{% if page.title %} | {{ page.title }}{% else %}{% endif %}</title>
   </head>
-  {% assign identifier = page.title | split: ' ' | join: '-' %}
+  {% assign identifier = page.title | split: ' ' | join: '-' | downcase %}
   <body class="{{ identifier }}">
     <nav class="navbar navbar-expand-xl navbar-light bg-light">
       <a class="navbar-brand" href="{{ site.url }}">
