@@ -40,6 +40,14 @@ div {
   align-items: center;
 }
 
+.fa-map-marker-alt {
+  color: #e74c3c;
+}
+
+.fa-calendar-alt {
+  color: #3498db;
+}
+
 /* =============== Homepage =============== */
 
 .jumbotron.video-banner {
@@ -122,10 +130,10 @@ footer .container-fluid {
 /* =============== Slim =============== */
 
 .undergraduate-volunteer-application .jumbotron {
+  color: white;
   background-color: #9b59b6;
 }
 
 .undergraduate-volunteer-application h1 {
   font-family: 'Roboto Slab', serif;
-  color: white;
 }

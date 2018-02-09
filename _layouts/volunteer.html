@@ -5,23 +5,65 @@
       <h1>{{ page.title }}</h1>
     </div>
     <div class="row">
-      <div class="col-12">
-        {{ content }}
+      <div class="col-sm-6 offset-sm-3">
+        <div class="alert alert-info" role="alert">
+          {{ content }}
+        </div>
       </div>
     </div>
 
-    <div class="jumbotron text-center p-5">
-      <h1>Upcoming Info Sessions</h1>
-      <div class="row">
-        <div class="col-sm-6 offset-sm-3">
-          <ul class="list-group">
+    <div class="card">
+      <div class="card-header">
+        <h1 class="card-title">Upcoming Info Sessions</h1>
+      </div>
+      <div class="card-body text-center">
+          <ul class="list-group list-group-flush">
             {% for session in page['info sessions'] %}
               <li class="list-group-item text-center">
                 <strong>{{ session }}</strong>
               </li>
             {% endfor %}
           </ul>
-        </div>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="card-header">
+        <h1 class="card-title">Other Events &amp; Important Dates</h1>
+      </div>
+      <div class="card-body">
+        <ul class="list-group">
+          {% for event in page['other events'] %}
+            <li class="list-group-item">
+              <h3>{{ event.name }}</h3>
+              <hr />
+              <h5><i class="fa fa-calendar-alt fa-1x"></i>  {{ event.dates }}</h5>
+
+              {% unless event.location contains 'N/A' or event.location contains 'n/a' or event.location.size == 0%}
+              <h5><i class="fa fa-map-marker-alt fa-1x"></i>  {{ event.location }}</h5>
+              {% endunless %}
+
+              {% unless event.time contains 'N/A' or event.time contains 'n/a' or event.time.size == 0%}
+              <h5><i class="fa fa-clock fa-1x"></i>  {{ event.time }}</h5>
+              {% endunless %}
+
+              {% unless event.tagline contains 'N/A' or event.tagline contains 'n/a' or event.tagline.size == 0%}
+              <em class="lead">{{  event.tagline }}</em>
+              {% endunless %}
+
+              {% unless event.description contains 'N/A' or event.description contains 'n/a' or event.description.size == 0%}
+              <div class="row">
+                <div class="col-sm-6 offset-sm-3">
+                  <div class="alert alert-primary">
+                    {{ event.description | markdownify }}
+                  </div>
+                </div>
+              </div>
+              {% endunless%}
+
+            </li>
+          {% endfor %}
+        </ul>
       </div>
     </div>
 

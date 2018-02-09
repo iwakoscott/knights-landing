@@ -18,11 +18,11 @@ other events:
   location: Memorial Union, UC Davis
   tagline: Come ask questions at our tabling events in the MU
   description: N/A
-- name: Applications
+- name: Application Due Date
   dates: April 7, 2018
   time: 11:59 PM
   location: N/A
-  tagline: Application Due Date
+  tagline: N/A
   description: N/A
 - name: Interviews
   time: N/A
