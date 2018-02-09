@@ -116,7 +116,7 @@ footer .container-fluid {
 /* =============== Slim =============== */
 
 .slim.jumbotron {
-  background: #9b59b6;
+  background-color: #9b59b6;
   color: white;
   font-family: 'Roboto Slab', serif;
 }
