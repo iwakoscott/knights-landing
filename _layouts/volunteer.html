@@ -4,6 +4,23 @@
     <div class="jumbotron text-center p-5">
       <h1>{{ page.title }}</h1>
     </div>
+
+    <div class="card">
+      <div class="card-header">
+        <h1 class="card-title">Volunteer Requirements</h1>
+      </div>
+      <div class="card-body">
+          <ol>
+            {% for requirement in page.volunteer.requirements %}
+              <li>
+                <strong>{{ requirement }}</strong>
+              </li>
+            {% endfor %}
+          </ol>
+          <h5 class="text-center">{{ page.volunteer.questions }}</h5>
+      </div>
+    </div>
+
     <div class="row">
       <div class="col-sm-6 offset-sm-3">
         <div class="alert alert-info" role="alert">
