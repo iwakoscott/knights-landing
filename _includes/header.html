@@ -25,9 +25,9 @@
     <!-- Alert!  -->
     {% assign right_now = 'now' | date: '%s' %}
     {% for deadline in site['important deadline dates'] %}
-      {{ deadline.date | date: "%B %d, %Y at %H:%M %p"}}
       {% assign dead_line_date = deadline.date | date: '%s' %}
-      {% if dead_line_date - right_now <= 86400 %}
+      {% assign difference = dead_line_date | minus: right_now %}
+      {% if difference <= 86400 %}
         {% assign flag = true %}
       {% endif %}
     {% endfor %}
@@ -38,9 +38,10 @@
         <ul>
           {% for deadline in site['important deadline dates'] %}
             {% assign dead_line_date = deadline.date | date: '%s' %}
-            {% if dead_line_date - right_now <= 86400 %}
+            {% assign difference = dead_line_date | minus: right_now %}
+            {% if difference <= 86400 %}
               <li>
-                {{ deadline.name }} : {{ deadline.date | date: "%B %d, %Y at %H:%M %p" }}
+                {{ deadline.name }} : {{ deadline.date | date: "%B %d, %Y at %I:%M %p" }}
               </li>
             {% endif %}
           {% endfor %}
