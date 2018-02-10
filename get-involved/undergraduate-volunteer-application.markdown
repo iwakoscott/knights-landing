@@ -1,6 +1,6 @@
 ---
 title: Undergraduate Volunteer Application
-date: 2018-02-08 19:25:00 Z
+date: 2018-02-08 11:25:00 -08:00
 position: 0
 info sessions:
 - March 7th, 2018 from 7:10 PM - 8:00 PM
