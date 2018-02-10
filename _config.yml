@@ -25,6 +25,6 @@ address: 9586 Mill Street Knights Landing, CA 95645
 phone: "(530) 421-8061"
 paypalURL: https://www.paypal.com/us/home
 important deadline dates:
-- name: Rideshare!
-  date: 2018-02-10 02:00:00.000000000 Z
-  alert: Rideshare from Umall!
+- name: example
+  date: 2018-02-12 02:00:00.000000000 Z
+  alert: example
