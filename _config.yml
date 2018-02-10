@@ -12,9 +12,9 @@ email: klclinic.ucdsom@gmail.com
 description: Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for Google search
   results) and in your feed.xml site description.
-baseurl: 
-url: 
-twitter_username: 
+baseurl:
+url:
+twitter_username:
 github_username: iwakoscott
 markdown: kramdown
 theme: minima
@@ -26,5 +26,5 @@ phone: "(530) 421-8061"
 paypalURL: https://www.paypal.com/us/home
 important deadline dates:
 - name: Rideshare
-  date: 2018-02-09 19:00:00.000000000 Z
+  date: 2018-02-09 19:00:00 Z
   alert: Rideshare from Umall!

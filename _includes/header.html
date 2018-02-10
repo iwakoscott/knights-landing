@@ -21,6 +21,37 @@
   </head>
   {% assign identifier = page.title | split: ' ' | join: '-' | downcase %}
   <body class="{{ identifier }}">
+
+    <!-- Alert!  -->
+    {% assign right_now = 'now' | date: '%s' %}
+    {% for deadline in site['important deadline dates'] %}
+      {{ deadline.date | date: "%B %d, %Y at %H:%M %p"}}
+      {% assign dead_line_date = deadline.date | date: '%s' %}
+      {% if dead_line_date - right_now <= 86400 %}
+        {% assign flag = true %}
+      {% endif %}
+    {% endfor %}
+
+    {% if flag %}
+      <div class="alert alert-warning alert-dismissible fade show m-0" role="alert">
+        <strong><i class="fa fa-clock fa-1x"></i>  Important deadlines coming very soon!</strong>
+        <ul>
+          {% for deadline in site['important deadline dates'] %}
+            {% assign dead_line_date = deadline.date | date: '%s' %}
+            {% if dead_line_date - right_now <= 86400 %}
+              <li>
+                {{ deadline.name }} : {{ deadline.date | date: "%B %d, %Y at %H:%M %p" }}
+              </li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+        </div>
+    {% endif %}
+
+    <!-- Navbar  -->
     <nav class="navbar navbar-expand-xl navbar-light bg-light">
       <a class="navbar-brand" href="{{ site.url }}">
         <img src="{{ site.logo }}" width="100" height="100" alt="logo">
