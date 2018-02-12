@@ -13,14 +13,14 @@ Prior to the opening of the Knights Landing One Health Center, the rural communi
 </div>
 <div class="col-xs-6 col-sm-4" markdown="1">
 
-{: .rounded .mx-auto .d-block}![history1.jpg](/uploads/history1.jpg)
+![history1.jpg](/uploads/history1.jpg){: .rounded .mx-auto .d-block}
 </div>
 </div>
 
 <div class="row" markdown="1">
 <div class="col-xs-6 col-sm-4" markdown="1">
 
-{: .rounded .mx-auto .d-block}![history2.jpg](/uploads/history2.jpg)
+![history2.jpg](/uploads/history2.jpg){: .rounded .mx-auto .d-block}
 </div>
 <div class="col-xs-6 col-sm-8" markdown="1">
 A group of predominantly Spanish-speaking, farm worker housewives surfaced as leaders in reaction to the significant loss of resources. They formed the “Grupo de Mujeres” to discuss and advocate for the needs of their community. In 2009 they contacted Juanita Ontiveros, a long-term protector of farm worker rights, who recruited UC Davis professor of Chicano Studies, Natalia Deeb-Sossa to the cause. Deeb-Sossa taught the women how to organize and empowered them to act. In January 2011, the Knights Landing Community Engagement Project (KLCEP) was formed by Deeb-Sossa and UC Davis medical and undergraduate students as a means of using a community-centered approach to advocate for the medically underserved within Knights Landing. The KLCEP partnered with the UC Davis School of Medicine Rural-PRIME program, a five-year MD/MPH program focused on fostering physician leaders committed to serving the rural underserved. The KLCEP also partnered with the Yolo Family Resource Center and the California Rural Legal Assistance Foundation. Together, they worked with Clinica Tepati, the long-standing UC Davis student-run clinic, to open its first satellite clinic in Knights Landing.
