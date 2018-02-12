@@ -38,6 +38,9 @@ div {
   display: grid;
   justify-content: center;
   align-items: center;
+  font-family: 'Roboto Slab', serif;
+  color: white;
+  background-color: #9b59b6;
 }
 
 .fa-map-marker-alt {
@@ -46,6 +49,10 @@ div {
 
 .fa-calendar-alt {
   color: #3498db;
+}
+
+span .fa-clock {
+  vertical-align: middle;
 }
 
 /* =============== Homepage =============== */
@@ -125,15 +132,4 @@ video {
 /* =============== Footer =============== */
 footer .container-fluid {
   background: #f8f9fa;
-}
-
-/* =============== Slim =============== */
-
-.undergraduate-volunteer-application .jumbotron {
-  color: white;
-  background-color: #9b59b6;
-}
-
-.undergraduate-volunteer-application h1 {
-  font-family: 'Roboto Slab', serif;
 }
