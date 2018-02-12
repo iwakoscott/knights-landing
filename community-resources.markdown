@@ -1,6 +1,6 @@
 ---
 title: Community Resources
-date: 2018-02-08 19:23:00 Z
-position: 4
+date: 2018-02-08 11:23:00 -08:00
+position: 5
 ---
 
