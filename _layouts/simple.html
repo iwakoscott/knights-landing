@@ -1,7 +1,12 @@
 {% include header.html %}
 
   <div class="container-fluid">
-    <h1>{{ page.title }}</h1>
+    <div class="jumbotron jumbotron-fluid">
+      <h1 class="text-center">{% if page['alt title'] %} {{ page['alt title'] }} {% else %} {{ page.title }} {% endif %}</h1>
+    </div>
+    <p>
+      {{ content }}
+    </p>
   </div>
 
 {% include footer.html %}
