@@ -13,6 +13,7 @@ Prior to the opening of the Knights Landing One Health Center, the rural communi
 </div>
 <div class="col-xs-6 col-sm-4" markdown="1">
 {:.rounded .mx-auto .d-block }
+
 ![history1.jpg](/uploads/history1.jpg)
 </div>
 </div>
@@ -20,6 +21,7 @@ Prior to the opening of the Knights Landing One Health Center, the rural communi
 <div class="row" markdown="1">
 <div class="col-xs-6 col-sm-4" markdown="1">
 {:.rounded .mx-auto .d-block }
+
 ![history2.jpg](/uploads/history2.jpg)
 </div>
 <div class="col-xs-6 col-sm-8" markdown="1">
