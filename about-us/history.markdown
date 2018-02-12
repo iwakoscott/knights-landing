@@ -13,12 +13,12 @@ Prior to the opening of the Knights Landing One Health Center, the rural communi
 </div>
 <div class="col-xs-6 col-sm-4" markdown="1">
 
-![history1.jpg](/uploads/history1.jpg){: .img-fluid .rounded .mx-auto .d-block}
+![history1.jpg](/uploads/history1.jpg){: .img-fluid .rounded .mx-auto .d-block .m-1}
 </div>
 </div>
 
 <div class="row" markdown="1">
-<div class="col-xs-6 col-sm-4" markdown="1">
+<div class="col-xs-6 col-sm-4 .m-1" markdown="1">
 
 ![history2.jpg](/uploads/history2.jpg){: .img-fluid .rounded .mx-auto .d-block}
 </div>
