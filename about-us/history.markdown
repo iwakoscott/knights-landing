@@ -12,14 +12,14 @@ layout: simple
 Prior to the opening of the Knights Landing One Health Center, the rural community of Knights Landing, CA, a community composed predominantly of Mexican farm-working families, began to steadily lose resources vital to its social, economic, physical, and mental health. The first loss was the migrant clinic, followed by the closure of the public park and the teen center. When the community clinic closed in 2008, the community was left without a local source of medical care, forcing them to travel 20 minutes to the city of Woodland in order to see a doctor and access medications. Woodland, also being the closest source of affordable and fresh fruits and vegetables, caused the limited bus hours to compound the obstacles to healthy living. For farm-workers, the situation was almost a complete barrier to medical care, as they worked during the time that clinics in Woodland operated.
 </div>
 <div class="col-xs-6 col-sm-4" markdown="1">
-{:.rounded .mx-auto .d-block}
+{: .rounded .mx-auto .d-block}
 ![history1.jpg](/uploads/history1.jpg)
 </div>
 </div>
 
 <div class="row" markdown="1">
 <div class="col-xs-6 col-sm-4" markdown="1">
-{:.rounded .mx-auto .d-block}
+{: .rounded .mx-auto .d-block}
 ![history2.jpg](/uploads/history2.jpg)
 </div>
 <div class="col-xs-6 col-sm-8" markdown="1">
