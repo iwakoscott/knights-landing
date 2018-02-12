@@ -25,6 +25,8 @@ A group of predominantly Spanish-speaking, farm worker housewives surfaced as le
 </div>
 </div>
 
-<div class="col-sm-6 offset-sm-3">
+<div class="row">
+<div class="col-sm-12">
 On January 19, 2013 the Knights Landing One Health Center celebrated its one-year anniversary. Every first and third Sunday of the month, volunteer undergraduate, graduate, and medical students as well as physicians and nurses provide free medical services to the medically underserved within Knights Landing. Still alive is the community engagement component that occurs through regular meetings with the Women’s group, town hall meetings, and focus groups with the community. This is critical to providing community-centered services. Upcoming projects include a community health needs assessment and outreach efforts focusing on migrant workers and underserved non-Hispanics. The clinic is also partnering with UC Davis veterinary students to pursue a One Health Initiative model of care that strives to link human, animal, and environmental health. Finally, the KLCEP is working with the Knights Landing youth group “Pueblo Unido” to provide health education to teens in the community.
+</div>
 </div>
