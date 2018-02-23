@@ -23,29 +23,11 @@
   <body class="{{ identifier }}">
 
     <!-- Alert!  -->
-    {% assign right_now = 'now' | date: '%s' %}
-    {% for deadline in site['important deadline dates'] %}
-      {% assign deadline_date = deadline.date | date: '%s' %}
-      {% assign difference = deadline_date | minus: right_now | abs %}
-      {% if difference <= 86400 %}
-        {% assign flag = true %}
-      {% endif %}
-    {% endfor %}
 
-    {% if flag %}
+    {% if warning %}
       <div class="alert alert-warning alert-dismissible fade show m-0" role="alert">
-        <span><i class="fa fa-clock fa-2x"></i></span><strong>  Important deadlines coming very soon!</strong>
-        <ul>
-          {% for deadline in site['important deadline dates'] %}
-            {% assign deadline_date = deadline.date | date: '%s' %}
-            {% assign difference = deadline_date | minus: right_now | abs %}
-            {% if difference <= 86400 %}
-              <li>
-                {{ deadline.name }} : {{ deadline_date | date: "%B %d, %Y at %I:%M %p" }}
-              </li>
-            {% endif %}
-          {% endfor %}
-        </ul>
+        <span><i class="fa fa-wrench fa-2x"></i></span><strong>  {{ site.warning.description }}</strong>
+
         <button type="button" class="close" data-dismiss="alert" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
