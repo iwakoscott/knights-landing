@@ -50,4 +50,4 @@ volunteer:
 layout: volunteer
 ---
 
-The 2018 application will open on March 19th and close April 7th at 11:59pm. [Click here to apply](https://goo.gl/forms/FrD7A9VW3SKyjMGJ2) during those dates and times to go to the application form.
+The 2018 application will open on March 19th and close April 7th at 11:59pm. [Click here to apply](https://goo.gl/forms/FMHI31aW3qDpPHyo1) during those dates and times to go to the application form.
