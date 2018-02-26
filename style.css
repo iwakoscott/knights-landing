@@ -55,6 +55,8 @@ div {
   font-family: 'Roboto Slab', serif;
   color: white;
   background-color: #9b59b6;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 .fa-map-marker-alt {

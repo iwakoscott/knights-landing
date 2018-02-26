@@ -47,6 +47,9 @@ volunteer:
   questions: |-
     Questions?
     Please email klclinic.ucdsom@gmail.com with the subject line "QUESTION".
+modal:
+  show: false
+  content: "/uploads/KLOHCFlyer.png"
 layout: volunteer
 ---
 
