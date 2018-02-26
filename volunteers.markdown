@@ -7,7 +7,7 @@ layout: simple
 <div class="row">
 
 <div class="col-sm-3 offset-sm-3">
- <button class="btn btn-lg btn-block btn-success">Clinic Volunteer</button>
+ <button class="btn btn-lg btn-block btn-success">Clinic Volunteers</button>
 </div>
 
 <div class="col-sm-3">
