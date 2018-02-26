@@ -1,5 +1,5 @@
 ---
-title: Undergraduate Volunteer Application
+title: Clinic Volunteer Application
 date: 2018-02-08 11:25:00 -08:00
 position: 2
 info sessions:
