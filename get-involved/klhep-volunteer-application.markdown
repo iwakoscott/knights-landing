@@ -12,7 +12,7 @@ volunteer:
   questions: |-
     Questions?
     Please email klclinic.ucdsom@gmail.com with the subject line "QUESTION".
-layout: simple
+layout: volunteer
 ---
 
 The 2018 application will open on March 19th and close April 7th at 11:59pm. [Click here to apply](https://goo.gl/forms/FMHI31aW3qDpPHyo1) during those dates and times to go to the application form.
