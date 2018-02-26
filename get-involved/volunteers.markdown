@@ -10,7 +10,7 @@ layout: simple
 
 <div class="col-sm-3 offset-sm-3">
 <a class="btn btn-lg btn-block btn-success" href="www.knightslandingclinic.org/get-involved/undergraduate-volunteer-application.html">
-Clinic Volunteers
+Clinic Volunteers</a>
 </div>
 
 <div class="col-sm-3">
