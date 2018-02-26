@@ -19,6 +19,15 @@ other events:
   tagline: N/A
   dates: April 24, 2018 to April 26, 2018
   description: "**Applicants will be notified of interview invitation by April 13th**"
+volunteer_description: 'Education is a key component of the Knights Landing One Health
+  Center. The Knights Landing Health Education Program (KLHEP) aims to provide health
+  education for the Knights Landing community, specifically by working as one-on-one
+  advocates for the patients of KLOHC. KLHEP volunteers will receive special training
+  to educate patients on topics such as nutrition, chronic illness, health behavior,
+  and health resources specific to Knights Landing. KLHEP operates as a part of regular
+  KLOHC hours and dates. KLHEP volunteers will not be involved in the clinic volunteer
+  positions described above but instead will work with patients during their visit
+  to promote overall health and wellbeing outside of medical care. '
 layout: volunteer
 ---
 
