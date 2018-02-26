@@ -55,6 +55,8 @@ layout: simple
           </ul>
       </div>
     </div>
+{% else %}
+<h2>Hello, world!</h2>
 {% endif %}
 
 <div class="row">
