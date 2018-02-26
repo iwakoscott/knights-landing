@@ -27,10 +27,10 @@ volunteer_description: "Education is a key component of the Knights Landing One 
   and health resources specific to Knights Landing. KLHEP operates as a part of regular
   KLOHC hours and dates. KLHEP volunteers will not be involved in the clinic volunteer
   positions described above but instead will work with patients during their visit
-  to promote overall health and wellbeing outside of medical care.\n\n<em>*As first
-  and foremost a community-centered clinic, all volunteers will be expected to fulfill
-  not only their responsibilities within clinic but also participate in a variety
-  of community outreach, projects and events</em>\n "
+  to promote overall health and wellbeing outside of medical care.\n<br />\n<em>*As
+  first and foremost a community-centered clinic, all volunteers will be expected
+  to fulfill not only their responsibilities within clinic but also participate in
+  a variety of community outreach, projects and events</em>\n "
 layout: volunteer
 ---
 
