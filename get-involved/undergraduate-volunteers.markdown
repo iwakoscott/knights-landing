@@ -40,7 +40,6 @@ layout: simple
       </div>
     </div>
 
-    {% if page['info sessions']%}
     <div class="card">
       <div class="card-header">
         <h2 class="card-title">Upcoming Info Sessions</h2>
@@ -55,7 +54,6 @@ layout: simple
           </ul>
       </div>
     </div>
-    {% endif %}
 
 <div class="row">
 
