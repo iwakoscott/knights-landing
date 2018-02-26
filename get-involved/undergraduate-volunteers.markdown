@@ -40,7 +40,7 @@ layout: simple
       </div>
     </div>
 
-    {% if page['info sessions']%}
+    {% if page['info sessions'] %}
     <div class="card">
       <div class="card-header">
         <h2 class="card-title">Upcoming Info Sessions</h2>
