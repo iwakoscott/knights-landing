@@ -42,7 +42,7 @@ volunteer_description: "Undergraduate volunteers play key roles in running clini
   in order to fulfill the KLHOC mission. \n\n*As first and foremost a community-centered
   clinic, all volunteers will be expected to fulfill not only their responsibilities
   within clinic but also participate in a variety of community outreach, projects
-  and events.* "
+  and events.*"
 layout: volunteer
 ---
 
