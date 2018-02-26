@@ -15,6 +15,5 @@ layout: simple
 <div class="col-sm-3">
 [KLHEP Volunteers](knightslandingclinic.org/get-involved/klhep-volunteer-application.html){: .btn .btn-success .btn-lg .btn-block}
 </div>
-</div>
 
 </div>
