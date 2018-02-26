@@ -17,6 +17,9 @@ volunteer:
   questions: |-
     Questions?
     Please email klclinic.ucdsom@gmail.com with the subject line "QUESTION".
+info sessions:
+- hello
+- world
 layout: simple
 ---
 
