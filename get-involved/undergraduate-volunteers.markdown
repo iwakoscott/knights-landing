@@ -41,20 +41,20 @@ layout: simple
     </div>
 
 {% if page['info sessions'] %}
-    <div class="card">
-      <div class="card-header">
-        <h2 class="card-title">Upcoming Info Sessions</h2>
-      </div>
-      <div class="card-body text-center">
-          <ul class="list-group list-group-flush">
-            {% for session in page['info sessions'] %}
-              <li class="list-group-item text-center">
-                <strong>{{ session }}</strong>
-              </li>
-            {% endfor %}
-          </ul>
-      </div>
+<div class="card">
+    <div class="card-header">
+      <h2 class="card-title">Upcoming Info Sessions</h2>
     </div>
+    <div class="card-body text-center">
+        <ul class="list-group list-group-flush">
+          {% for session in page['info sessions'] %}
+            <li class="list-group-item text-center">
+              <strong>{{ session }}</strong>
+            </li>
+          {% endfor %}
+        </ul>
+    </div>
+</div>
 {% endif %}
 
 <div class="row">
