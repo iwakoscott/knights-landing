@@ -11,11 +11,11 @@ layout: simple
 <div class="row">
 
 <div class="col-sm-3 offset-sm-3">
- <a href={{page.clinicVolunteerURL}}} class="btn btn-lg btn-block btn-success" target="_blank">Clinic Volunteers</a>
+[Clinic Volunteers](www.knightslandingclinic.org/get-involved/undergraduate-volunteer-application.html){: .btn .btn-primary .btn-lg .btn-block}
 </div>
 
 <div class="col-sm-3">
-<a href={{page.KLHEPURL}}} class="btn btn-lg btn-block btn-primary" target="_blank">KLHEP Volunteers</a>
+[KLHEP Volunteers](www.knightslandingclinic.org/get-involved/klhep-volunteer-application.html){: .btn .btn-success .btn-lg .btn-block}
 </div>
 
 </div>
