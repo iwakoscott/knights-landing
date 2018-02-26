@@ -39,7 +39,7 @@ volunteer_description: "Undergraduate volunteers play key roles in running clini
   patients throughout their clinic visit to act as a liaison between the physician/Co-D
   and the patient. Please note that while you do not need to speak Spanish to apply,
   having Spanish speaking volunteers is a vital necessity for any given clinic day
-  in order to fulfill the KLHOC mission. \n\n_*As first and foremost a community-centered
+  in order to fulfill the KLHOC mission. \n\n_As first and foremost a community-centered
   clinic, all volunteers will be expected to fulfill not only their responsibilities
   within clinic but also participate in a variety of community outreach, projects
   and events._ "
