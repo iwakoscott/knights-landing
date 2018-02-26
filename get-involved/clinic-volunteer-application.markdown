@@ -45,6 +45,7 @@ modal:
   show: false
   content: "/uploads/KLOHCFlyer.png"
 addToNavBar: false
+volunteer_type: Clinic
 layout: volunteer
 ---
 
