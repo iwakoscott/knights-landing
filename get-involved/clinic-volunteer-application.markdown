@@ -25,15 +25,21 @@ modal:
   content: "/uploads/KLOHCFlyer.png"
 addToNavBar: false
 volunteer_type: Clinic
-volunteer_description: 'Education is a key component of the Knights Landing One Health
-  Center. The Knights Landing Health Education Program (KLHEP) aims to provide health
-  education for the Knights Landing community, specifically by working as one-on-one
-  advocates for the patients of KLOHC. KLHEP volunteers will receive special training
-  to educate patients on topics such as nutrition, chronic illness, health behavior,
-  and health resources specific to Knights Landing. KLHEP operates as a part of regular
-  KLOHC hours and dates. KLHEP volunteers will not be involved in the clinic volunteer
-  positions described above but instead will work with patients during their visit
-  to promote overall health and wellbeing outside of medical care. '
+volunteer_description: "Undergraduate volunteers play key roles in running clinic
+  every other Sunday, including intake, reception, lab, and interpreting. Volunteers
+  will rotate through these roles throughout their time at clinic. \n \nIntake volunteers
+  provide the initial patient assessment, performing vitals and a review of systems
+  to present to the medical students (Co-D’s). Once this information has been collected,
+  intake volunteers have the opportunity to interpret for the Co-D’s and Doctors,
+  or shadow the patient’s visit, allowing for personalized patient interactions. \n
+  \nReception volunteers greet the patients, organize patient charts/paperwork, manage
+  appointments and schedule follow-up visits. \n \nLab volunteers are responsible
+  for organizing lab samples, taking inventory, and keeping track of lab work sent
+  to the UC Davis Medical Center in Sacramento. \n \nInterpreters accompany their
+  patients throughout their clinic visit to act as a liaison between the physician/Co-D
+  and the patient. Please note that while you do not need to speak Spanish to apply,
+  having Spanish speaking volunteers is a vital necessity for any given clinic day
+  in order to fulfill the KLHOC mission. "
 layout: volunteer
 ---
 
