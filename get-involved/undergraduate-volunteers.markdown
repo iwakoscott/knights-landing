@@ -33,7 +33,7 @@ layout: simple
             {% endfor %}
           </ol>
           <h5 class="text-center">{{ page.volunteer.questions }}</h5>
-          <p>**Note: Your GPA does not have to be a 3.0 at the time of applying- we just ask that you maintain a 3.0 quarterly GPA as a volunteer to ensure that you can balance clinic with your academics. </p>
+          <p>**Note: Your GPA does not have to be a 3.0 at the time of applying - we just ask that you maintain a 3.0 quarterly GPA as a volunteer to ensure that you can balance clinic with your academics. </p>
       </div>
     </div>
 
