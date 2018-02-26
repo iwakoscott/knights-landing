@@ -5,6 +5,14 @@
       <h1>{{ page.title }}</h1>
     </div>
 
+    {% if page.volunteer_description %}
+    <div class="row">
+      <div class="col-sm-8 offset-sm-2">
+        {{ page.volunteer_description }}
+      </div>
+    </div>
+    {% endif %}
+
     <div class="card">
       <div class="card-header">
         <h2 class="card-title">{{ page.volunteer_type }} Volunteer Requirements</h2>
