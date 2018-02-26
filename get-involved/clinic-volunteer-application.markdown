@@ -38,10 +38,10 @@ volunteer_description: Undergraduate volunteers play key roles in running clinic
   Sacramento. Interpreters accompany their patients throughout their clinic visit
   to act as a liaison between the physician/Co-D and the patient. Please note that
   while you do not need to speak Spanish to apply, having Spanish speaking volunteers
-  is a vital necessity for any given clinic day in order to fulfill the KLHOC mission.{{*As
-  first and foremost a community-centered clinic, all volunteers will be expected
+  is a vital necessity for any given clinic day in order to fulfill the KLHOC mission.
+  <em>*As first and foremost a community-centered clinic, all volunteers will be expected
   to fulfill not only their responsibilities within clinic but also participate in
-  a variety of community outreach, projects and events.* | markdown}}
+  a variety of community outreach, projects and events</em>
 layout: volunteer
 ---
 
