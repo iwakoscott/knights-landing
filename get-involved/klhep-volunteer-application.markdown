@@ -12,6 +12,13 @@ volunteer:
   questions: |-
     Questions?
     Please email klclinic.ucdsom@gmail.com with the subject line "QUESTION".
+other events:
+- name: Interviews
+  time: N/A
+  location: N/A
+  tagline: N/A
+  dates: April 24, 2018 to April 26, 2018
+  description: "**Applicants will be notified of interview invitation by April 13th**"
 layout: volunteer
 ---
 
