@@ -9,7 +9,7 @@ layout: simple
 <div class="row">
 
 <div class="col-sm-3 offset-sm-3">
-<a class="btn btn-lg btn-block btn-success" href="{{site.url}}/get-involved/undergraduate-volunteer-application.html">
+<a class="btn btn-lg btn-block btn-success" href="{{site.url}}/get-involved/clinic-volunteer-application.html">
 Clinic Volunteers</a>
 </div>
 
