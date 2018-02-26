@@ -9,12 +9,12 @@ layout: simple
 <div class="row">
 
 <div class="col-sm-3 offset-sm-3">
-<a class="btn btn-lg btn-block btn-success" href="{site.url}/get-involved/undergraduate-volunteer-application.html">
+<a class="btn btn-lg btn-block btn-success" href="{{site.url}}/get-involved/undergraduate-volunteer-application.html">
 Clinic Volunteers</a>
 </div>
 
 <div class="col-sm-3">
-<a class="btn btn-lg btn-block btn-primary" href="{site.url}/get-involved/klhep-volunteer-application.html">KLHEP Volunteers</a>
+<a class="btn btn-lg btn-block btn-primary" href="{{site.url}}/get-involved/klhep-volunteer-application.html">KLHEP Volunteers</a>
 </div>
 
 </div>
