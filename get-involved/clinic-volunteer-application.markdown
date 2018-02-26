@@ -33,7 +33,7 @@ other events:
 volunteer:
   requirements:
   - 'Mandatory clinic training at the end of spring quarter (approximately 8 hours
-    total) '
+    total.) '
   - 'Volunteers will be placed on one committee (Women’s Health, Community Outreach,
     Fundraising, One Health, Referrals, or Youth Enrichment) and must fulfill committee
     requirements, which vary between positions and time of the year but are generally
