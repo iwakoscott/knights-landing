@@ -2,9 +2,6 @@
 title: Clinic Volunteer Application
 date: 2018-02-08 11:25:00 -08:00
 position: 2
-info sessions:
-- March 7th, 2018 from 7:10 PM - 8:00 PM
-- March 8th, 2018 from 6:10 PM - 7:00 PM
 other events:
 - name: HPA Pre-Health Gap Year and Involvement Fair
   dates: March 9, 2018
