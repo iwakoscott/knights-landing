@@ -22,7 +22,7 @@ layout: simple
 
 <div class="card">
       <div class="card-header">
-        <h2 class="card-title">Volunteer Requirements</h2>
+        <h2 class="card-title">Base Volunteer Requirements</h2>
       </div>
       <div class="card-body">
           <ol>
