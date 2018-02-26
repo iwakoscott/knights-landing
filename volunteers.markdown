@@ -8,7 +8,7 @@ layout: simple
 
 <div class="col-sm-6">
  <button class="btn btn-block btn-primary">Clinic Volunteer</button>
-<div>
+</div>
 
 <div class="col-sm-6">
 <button class="btn btn-block btn-primary">KLHEP Volunteers</button>
