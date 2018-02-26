@@ -9,13 +9,12 @@ layout: simple
 <div class="row">
 
 <div class="col-sm-3 offset-sm-3">
-<a href="www.knightslandingclinic.org/get-involved/undergraduate-volunteer-application.html">
+<a class="btn btn-lg btn-block btn-success" href="www.knightslandingclinic.org/get-involved/undergraduate-volunteer-application.html">
 Clinic Volunteers
-</a>{:.btn .btn-primary .btn-lg .btn-block}
 </div>
 
 <div class="col-sm-3">
-<a href="www.knightslandingclinic.org/get-involved/klhep-volunteer-application.html">KLHEP Volunteers</a>{:.btn .btn-primary .btn-lg .btn-block}
+<a class="btn btn-lg btn-block btn-primary" href="www.knightslandingclinic.org/get-involved/klhep-volunteer-application.html">KLHEP Volunteers</a>
 </div>
 
 </div>
