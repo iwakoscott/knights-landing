@@ -1,7 +1,8 @@
 ---
 title: Clinic Board
-date: 2018-02-08 19:19:00 Z
+date: 2018-02-08 11:19:00 -08:00
 position: 0
+addToNavBar: true
 layout: default
 ---
 
