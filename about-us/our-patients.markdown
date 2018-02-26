@@ -2,6 +2,7 @@
 title: Our Patients
 date: 2018-02-26 10:51:00 -08:00
 position: 2
+addToNavBar: true
 layout: simple
 ---
 

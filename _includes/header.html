@@ -54,7 +54,7 @@
                 {% assign key = item.name | remove: '.markdown' | prepend: '/' | append: '/'%}
                 {% assign value = all | where: 'name', key %}
                 {% if value.size > 0 %}
-                  {% assign ordered_dropdown_items = value[0].items | sort: "position" %}
+                  {% assign ordered_dropdown_items = value[0].items | where: 'addToNavBar', true | sort: "position" %}
                   <li class="nav-item dropdown">
                           <a class="nav-link dropdown-toggle" href="" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             {{ item.title }}
