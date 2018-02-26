@@ -3,24 +3,6 @@ title: Clinic Volunteer Application
 date: 2018-02-08 11:25:00 -08:00
 position: 2
 other events:
-- name: HPA Pre-Health Gap Year and Involvement Fair
-  dates: March 9, 2018
-  time: 11:00 AM to 2:00 PM
-  location: UC Davis ARC Ballroom
-  tagline: Come find us at the HPA Pre-Health Gap Year and Involvement Fair
-  description: N/A
-- name: Tabling Events
-  dates: March 12, 2018 to March 16, 2018
-  time: 12:00 PM to 2:00 PM
-  location: Memorial Union, UC Davis
-  tagline: Come ask questions at our tabling events in the MU
-  description: N/A
-- name: Application Due Date
-  dates: April 7, 2018
-  time: 11:59 PM
-  location: N/A
-  tagline: N/A
-  description: N/A
 - name: Interviews
   time: N/A
   location: N/A
