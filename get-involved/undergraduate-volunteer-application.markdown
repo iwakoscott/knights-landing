@@ -50,6 +50,7 @@ volunteer:
 modal:
   show: false
   content: "/uploads/KLOHCFlyer.png"
+addToNavBar: false
 layout: volunteer
 ---
 
