@@ -1,6 +1,7 @@
 ---
 title: Our Patients
 date: 2018-02-26 10:51:00 -08:00
+position: 1
 ---
 
 Mexican migrant and seasonal farm workers (MSFWs) and their families represent the majority of patients the KLC serves. The seasonal farm worker population lives in Knights Landing and the smaller community of La Tijera year-round. The migrant farm worker population lives in Knights Landing and the nearby migrant labor camps from February/March-August each year. 
