@@ -15,3 +15,4 @@ The Mexican MSFWs in and near Knights Landing are part of this largely uninsured
 Migrant farm workers face other obstacles to seeking medical care that contribute to preventable poor health outcomes. Other than insurance, other barriers migrants face when wanting to seek medical care include finances, fear of deportation, working long hours during clinic hours, and transportation.<sup>6</sup> Ralston & Escandell add that discrimination and lack of knowledge of the U.S. healthcare system and English language skills are also contributing factors.<sup>7</sup> The preventable poor health outcomes associated with this limited medical care include: chronic non-infectious diseases, allergic conditions, work-related physical injuries, and infectious diseases.<sup>6</sup> 
 
 Apart from the MSFW population aspect, the KLC serves a rural community that faces the low resource environment that plagues most rural areas across the country.
+<hr />
