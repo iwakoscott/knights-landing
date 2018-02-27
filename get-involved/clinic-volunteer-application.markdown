@@ -17,9 +17,6 @@ volunteer:
     Fundraising, One Health, Referrals, or Youth Enrichment) and must fulfill committee
     requirements, which vary between positions and time of the year but are generally
     no more than 10 hours per quarter. '
-  questions: |-
-    Questions?
-    Please email klclinic.ucdsom@gmail.com with the subject line "QUESTION".
 modal:
   show: false
   content: "/uploads/KLOHCFlyer.png"
