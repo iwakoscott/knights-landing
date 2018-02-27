@@ -11,7 +11,7 @@ volunteer:
     requirements.
   questions: |-
     Questions?
-    Please email klclinic.ucdsom@gmail.com with the subject line "QUESTION".
+    Please email {{ site.email }} with the subject line "QUESTION".
 other events:
 - name: Interviews
   time: N/A
