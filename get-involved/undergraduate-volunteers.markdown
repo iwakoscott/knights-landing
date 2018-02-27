@@ -58,15 +58,9 @@ layout: simple
 </div>
 {% endif %}
 
-<div class="row">
-
-<div class="col-sm-3 offset-sm-3">
+<div class="btn-group" role="group" aria-label="button group">
 <a class="btn btn-lg btn-block btn-success" href="{{site.url}}/get-involved/clinic-volunteer-application.html">
 Clinic Volunteers</a>
-</div>
 
-<div class="col-sm-3">
 <a class="btn btn-lg btn-block btn-primary" href="{{site.url}}/get-involved/klhep-volunteer-application.html">KLHEP Volunteers</a>
-</div>
-
 </div>
