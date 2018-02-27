@@ -18,6 +18,7 @@
     <!-- Main stylesheet -->
     <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/style.css"/>
     <title>{% if site.title %}{{site.title}}{% else %}{% endif %}{% if page.title %} | {{ page.title }}{% else %}{% endif %}</title>
+    {% seo %}
   </head>
   {% assign identifier = page.title | split: ' ' | join: '-' | downcase %}
   <body class="{{ identifier }}">
