@@ -2,28 +2,7 @@
 title: Clinic Volunteer Application
 date: 2018-02-08 11:25:00 -08:00
 position: 2
-info sessions:
-- March 7th, 2018 from 7:10 PM - 8:00 PM
-- March 8th, 2018 from 6:10 PM - 7:00 PM
 other events:
-- name: HPA Pre-Health Gap Year and Involvement Fair
-  dates: March 9, 2018
-  time: 11:00 AM to 2:00 PM
-  location: UC Davis ARC Ballroom
-  tagline: Come find us at the HPA Pre-Health Gap Year and Involvement Fair
-  description: N/A
-- name: Tabling Events
-  dates: March 12, 2018 to March 16, 2018
-  time: 12:00 PM to 2:00 PM
-  location: Memorial Union, UC Davis
-  tagline: Come ask questions at our tabling events in the MU
-  description: N/A
-- name: Application Due Date
-  dates: April 7, 2018
-  time: 11:59 PM
-  location: N/A
-  tagline: N/A
-  description: N/A
 - name: Interviews
   time: N/A
   location: N/A
@@ -32,18 +11,12 @@ other events:
   description: "**Applicants will be notified of interview invitation by April 13th**"
 volunteer:
   requirements:
-  - Registered UC Davis undergraduate student.
-  - Minimum 2 quarter commitment.
-  - 1-2 unit quarterly clinic class (P/NP grading) on Mondays from 6:00-7:00pm (classroom
-    TBA).
-  - Volunteer at clinic a minimum of 2-3 Sundays per quarter.
-  - Immunizations cleared with Volunteer Services and the Internship and Career Center
-    (ICC) before you volunteer, and each subsequent quarter thereafter.
-  - Minimum of 2 hours of community related tasks outside of clinic (fundraising,
-    clinic socials, Knights Landing community events, etc.).
-  - Quarterly academic transcript reviewed after each quarter (if admitted to clinic,
-    every volunteer is expected to maintain a minimum quarterly GPA of 3.0).
-  - Mandatory clinic training during Spring Quarter, date and time TBD.
+  - 'Mandatory clinic training at the end of spring quarter (approximately 8 hours
+    total.) '
+  - 'Volunteers will be placed on one committee (Women’s Health, Community Outreach,
+    Fundraising, One Health, Referrals, or Youth Enrichment) and must fulfill committee
+    requirements, which vary between positions and time of the year but are generally
+    no more than 10 hours per quarter. '
   questions: |-
     Questions?
     Please email klclinic.ucdsom@gmail.com with the subject line "QUESTION".
@@ -51,6 +24,24 @@ modal:
   show: false
   content: "/uploads/KLOHCFlyer.png"
 addToNavBar: false
+volunteer_type: Clinic
+volunteer_description: "Undergraduate volunteers play key roles in running clinic
+  every other Sunday, including intake, reception, lab, and interpreting. Volunteers
+  will rotate through these roles throughout their time at clinic. Intake volunteers
+  provide the initial patient assessment, performing vitals and a review of systems
+  to present to the medical students (Co-D’s). Once this information has been collected,
+  intake volunteers have the opportunity to interpret for the Co-D’s and Doctors,
+  or shadow the patient’s visit, allowing for personalized patient interactions. Reception
+  volunteers greet the patients, organize patient charts/paperwork, manage appointments
+  and schedule follow-up visits. Lab volunteers are responsible for organizing lab
+  samples, taking inventory, and keeping track of lab work sent to the UC Davis Medical
+  Center in Sacramento. Interpreters accompany their patients throughout their clinic
+  visit to act as a liaison between the physician/Co-D and the patient. Please note
+  that while you do not need to speak Spanish to apply, having Spanish speaking volunteers
+  is a vital necessity for any given clinic day in order to fulfill the KLHOC mission.
+  \n<br /><br />\n<em>*As first and foremost a community-centered clinic, all volunteers
+  will be expected to fulfill not only their responsibilities within clinic but also
+  participate in a variety of community outreach, projects and events</em>"
 layout: volunteer
 ---
 
