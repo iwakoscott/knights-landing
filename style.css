@@ -71,6 +71,26 @@ span .fa-clock {
   vertical-align: middle;
 }
 
+.purple-button {
+  background: #9c88ff;
+  border-color: #9c88ff;
+}
+
+.purple-button:hover {
+  background: #8c7ae6;
+  border-color: #8c7ae6;
+}
+
+.grey-button {
+  background: #7f8fa6;
+  border-color: #7f8fa6;
+}
+
+.grey-button:hover {
+  background: #718093;
+  border-color: #718093;
+}
+
 /* =============== Homepage =============== */
 
 .jumbotron.video-banner {
