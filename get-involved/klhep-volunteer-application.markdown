@@ -30,7 +30,7 @@ volunteer_description: "Education is a key component of the Knights Landing One 
   to promote overall health and wellbeing outside of medical care.\n<br /><br />\n<em>*As
   first and foremost a community-centered clinic, all volunteers will be expected
   to fulfill not only their responsibilities within clinic but also participate in
-  a variety of community outreach, projects and events</em>\n "
+  a variety of community outreach, projects and events.</em>\n "
 layout: volunteer
 ---
 
