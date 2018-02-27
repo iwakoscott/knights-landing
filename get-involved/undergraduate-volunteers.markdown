@@ -59,8 +59,8 @@ layout: simple
 {% endif %}
 
 <div class="btn-group" role="group" aria-label="button group">
-<a class="btn btn-lg btn-block btn-success" href="{{site.url}}/get-involved/clinic-volunteer-application.html">
+<a class="btn btn-lg btn-success" href="{{site.url}}/get-involved/clinic-volunteer-application.html">
 Clinic Volunteers</a>
 
-<a class="btn btn-lg btn-block btn-primary" href="{{site.url}}/get-involved/klhep-volunteer-application.html">KLHEP Volunteers</a>
+<a class="btn btn-lg btn-primary" href="{{site.url}}/get-involved/klhep-volunteer-application.html">KLHEP Volunteers</a>
 </div>
