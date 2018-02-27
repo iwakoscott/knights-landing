@@ -63,6 +63,6 @@ layout: simple
 <a class="btn btn-lg btn-success p-2" href="{{site.url}}/get-involved/clinic-volunteer-application.html">
 Clinic Volunteers</a>
 
-<a class="btn btn-lg btn-primary p-5" href="{{site.url}}/get-involved/klhep-volunteer-application.html">KLHEP Volunteers</a>
+<a class="btn btn-lg btn-primary p-2" href="{{site.url}}/get-involved/klhep-volunteer-application.html">KLHEP Volunteers</a>
 </div>
 </div>
