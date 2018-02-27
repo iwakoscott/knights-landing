@@ -1,12 +1,10 @@
 ---
 title: Contact Us
 date: 2018-02-08 11:26:00 -08:00
-published: true
 position: 6
 addToNavBar: true
 layout: simple
 ---
-
 
 <form action="https://formspree.io/{{site.email}}" method="POST">
   <input type="hidden" name="_format" value="plain" />
