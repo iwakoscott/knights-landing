@@ -58,7 +58,7 @@ layout: simple
 </div>
 {% endif %}
 
-<div class="btn-group" role="group" aria-label="button group">
+<div class="btn-group text-center" role="group" aria-label="button group">
 <a class="btn btn-lg btn-success" href="{{site.url}}/get-involved/clinic-volunteer-application.html">
 Clinic Volunteers</a>
 
