@@ -10,8 +10,8 @@ layout: simple
   <input type="hidden" name="_format" value="plain" />
   <input class="form-control mb-1 mt-1" type="text" name="name" placeholder="name" required="true"/>
   <input class="form-control mb-1 mt-1" type="email" name="_replyto" placeholder="email"  required="true"/>
-  <textarea class="form-control mb-1 mt-1" name="message" rows="3" placeholder="your message" required="true"></textarea>
+  <textarea class="form-control mb-1 mt-1" name="message" rows="7" placeholder="your message" required="true"></textarea>
   <input type="text" name="_gotcha" style="display: none;" />
-  <input type="hidden" name="_next" value="//" />
+  <input type="hidden" name="_next" value="{{page.url}}" />
   <button class="btn btn-danger btn-lg mt-3 send-button" type="submit">Send</button>
 </form>
