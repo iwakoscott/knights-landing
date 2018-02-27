@@ -9,9 +9,6 @@ volunteer:
   - Mandatory clinic training during Fall quarter (18 hours total.)
   - Volunteers will be placed on the Health Education Committee and must fill committee
     requirements.
-  questions: |-
-    Questions?
-    Please email klclinic.ucdsom@gmail.com with the subject line "QUESTION".
 other events:
 - name: Interviews
   time: N/A
