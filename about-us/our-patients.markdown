@@ -15,4 +15,14 @@ The Mexican MSFWs in and near Knights Landing are part of this largely uninsured
 Migrant farm workers face other obstacles to seeking medical care that contribute to preventable poor health outcomes. Other than insurance, other barriers migrants face when wanting to seek medical care include finances, fear of deportation, working long hours during clinic hours, and transportation.<sup>6</sup> Ralston & Escandell add that discrimination and lack of knowledge of the U.S. healthcare system and English language skills are also contributing factors.<sup>7</sup> The preventable poor health outcomes associated with this limited medical care include: chronic non-infectious diseases, allergic conditions, work-related physical injuries, and infectious diseases.<sup>6</sup> 
 
 Apart from the MSFW population aspect, the KLC serves a rural community that faces the low resource environment that plagues most rural areas across the country.
+
 <hr />
+
+**References**
+1. Facts about Farmworkers. 2012; http://www.ncfh.org. Accessed February 18, 2013, 2013.
+2. Rosenbaum S, Shin P. Migrant and Seasonal Farmworkers: Health Insurance Coverage and Access to Care. Kaiser;2005.
+3. Larson AC. Migrant and Seasonal Farmworker Enumeration Profiles Study: California. 2000.
+4. Villarejo D, McCurdy SA, Bade B, Samuels S, Lighthall D, Williams D, 3rd. The health of California's immigrant hired farmworkers. Am J Ind Med. Apr 2010;53(4):387-397.
+5. Nigenda G, Ruiz-Larios JA, Bejarano-Arias RM, Alcalde-Rabanal JE, Bonilla-Fernandez P. [Strategies by Mexican migrants in the USA to seek health care]. Salud publica de Mexico. Sep-Oct 2009;51(5):407-416.
+6. Clark PA, Surry L, Contino K. Health care access for migrant farmworkers: A paradigm for better health. The Internet Journal of Health. 2009;8(2).
+7. Ralston ML, Escandell X. Networks Matter: Male Mexican Migrants’ Use of Hospitals. Population Research and Policy Review. 2012:1-17.
