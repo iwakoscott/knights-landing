@@ -9,9 +9,13 @@ collections:
     title: Uploads
     output: true
 email: klclinic.ucdsom@gmail.com
-description: Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+description: Knights Landing One Health Center aims to provide linguistically competent
+  and culturally sensitive healthcare services to the rural underserved in the Knights
+  Landing area. We seek to fill the gap in primary care services and health education,
+  with particular emphasis on women, adolescents, and farmworkers. Our goal is to
+  provide community-centered care by maintaining a high level of community engagement
+  and empowerment, and by continuing to collaborate with other organizations. We are
+  striving to develop a One Health model, linking.
 baseurl: 
 url: 
 twitter_username: 
