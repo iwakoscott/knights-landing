@@ -58,9 +58,11 @@ layout: simple
 </div>
 {% endif %}
 
+<div class="text-center">
 <div class="btn-group btn-group-lg" role="group" aria-label="button group">
 <a class="btn btn-lg btn-success" href="{{site.url}}/get-involved/clinic-volunteer-application.html">
 Clinic Volunteers</a>
 
 <a class="btn btn-lg btn-primary" href="{{site.url}}/get-involved/klhep-volunteer-application.html">KLHEP Volunteers</a>
+</div>
 </div>
