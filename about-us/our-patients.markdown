@@ -19,7 +19,7 @@ Apart from the MSFW population aspect, the KLC serves a rural community that fac
 <hr />
 
 **References**
-1. Facts about Farmworkers. 2012; http://www.ncfh.org. Accessed February 18, 2013, 2013.
+1. <cite>Facts about Farmworkers. 2012; http://www.ncfh.org. Accessed February 18, 2013, 2013.</cite>
 2. Rosenbaum S, Shin P. Migrant and Seasonal Farmworkers: Health Insurance Coverage and Access to Care. Kaiser;2005.
 3. Larson AC. Migrant and Seasonal Farmworker Enumeration Profiles Study: California. 2000.
 4. Villarejo D, McCurdy SA, Bade B, Samuels S, Lighthall D, Williams D, 3rd. The health of California's immigrant hired farmworkers. Am J Ind Med. Apr 2010;53(4):387-397.
