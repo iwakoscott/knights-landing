@@ -13,5 +13,5 @@ layout: simple
   <textarea class="form-control mb-1 mt-1" name="message" rows="7" placeholder="your message" required="true"></textarea>
   <input type="text" name="_gotcha" style="display: none;" />
   <input type="hidden" name="_next" value="{{page.url}}" />
-  <button class="btn btn-danger btn-lg mt-3 send-button float-right" type="submit">Send</button>
+  <button class="btn btn-success btn-lg mt-3 send-button float-right" type="submit"><i class="fa fa-chevron-circle-right fa-lg m-1"></i> Send</button>
 </form>
