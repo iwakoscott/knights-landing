@@ -1,7 +1,7 @@
 ---
 title: Clinic Volunteer Application
 date: 2018-02-08 11:25:00 -08:00
-position: 3
+position: 2
 other events:
 - name: Interviews
   time: N/A
