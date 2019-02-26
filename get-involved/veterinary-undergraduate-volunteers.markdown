@@ -23,7 +23,6 @@ application_info: The 2018 application will open on March 19th and close April 7
   at 11:59pm. [Click here to apply](https://goo.gl/forms/qPuW5IaFDoG7fCsn2) during
   those dates and times to go to the application form. [Check out our website [here](https://www2.vetmed.ucdavis.edu/onehealth/students/knights_landing/index.cfm
   )]
-layout: simple
 ---
 
 <div class="card">
@@ -63,7 +62,7 @@ layout: simple
 <div class="row">
   <div class="col-sm-6 offset-sm-3">
      <div class="alert alert-info" role="alert">
-        {{ page.application_info }}
+        {{ page.application_info | markdownify }}
       </div>
    </div>
 </div>
