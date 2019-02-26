@@ -1,7 +1,7 @@
 ---
 title: Dental Clinic Volunteer Application
 date: 2018-05-13 18:22:00 -07:00
-position: 3
+position: 4
 volunteer_description: "The KLOHC Dental Clinic provides free dental care to the rural
   underserved community of Knights Landing on Saturdays every other month. The Knights
   Landing Dental Committee’s mission is to serve the community by improving access
