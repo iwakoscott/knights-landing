@@ -1,0 +1,102 @@
+{% include header.html %}
+
+  <div class="container">
+    <div class="jumbotron text-center">
+      <h1>{{ page.title }}</h1>
+    </div>
+
+    {% if page.volunteer_description %}
+    <div class="row">
+      <div class="col-sm-10 offset-sm-1">
+        {{ page.volunteer_description }}
+      </div>
+    </div>
+    {% endif %}
+
+    <div class="card mtb-1">
+      <div class="card-header">
+        <h2 class="card-title">Additional {{ page.volunteer_type }}  Volunteer Requirements</h2>
+      </div>
+      <div class="card-body">
+          <ol>
+            {% for requirement in page.volunteer.requirements %}
+              <li>
+                <strong>{{ requirement }}</strong>
+              </li>
+            {% endfor %}
+          </ol>
+          <h5 class="text-center">Questions?
+Please email {{ site.email }} with the subject line "QUESTION".</h5>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-sm-6 offset-sm-3">
+        <div class="alert alert-info" role="alert">
+        {{ page.application_info | markdownify }}
+        </div>
+      </div>
+    </div>
+
+    {% if page['info sessions']%}
+    <div class="card">
+      <div class="card-header">
+        <h2 class="card-title">Upcoming Info Sessions</h2>
+      </div>
+      <div class="card-body text-center">
+          <ul class="list-group list-group-flush">
+            {% for session in page['info sessions'] %}
+              <li class="list-group-item text-center">
+                <strong>{{ session }}</strong>
+              </li>
+            {% endfor %}
+          </ul>
+      </div>
+    </div>
+    {% endif %}
+
+    {% if page['other events']%}
+    <div class="card">
+      <div class="card-header">
+        <h2 class="card-title">Important Date&lpar;s&rpar;</h2>
+      </div>
+      <div class="card-body">
+        <ul class="list-group">
+          {% for event in page['other events'] %}
+            <li class="list-group-item">
+              <h3>{{ event.name }}</h3>
+              <hr />
+              <h5><i class="fa fa-calendar-alt fa-1x"></i>  {{ event.dates }}</h5>
+
+              {% unless event.location contains 'N/A' or event.location contains 'n/a' or event.location.size == 0%}
+              <h5><i class="fa fa-map-marker-alt fa-1x"></i>  {{ event.location }}</h5>
+              {% endunless %}
+
+              {% unless event.time contains 'N/A' or event.time contains 'n/a' or event.time.size == 0%}
+              <h5><i class="fa fa-clock fa-1x"></i>  {{ event.time }}</h5>
+              {% endunless %}
+
+              {% unless event.tagline contains 'N/A' or event.tagline contains 'n/a' or event.tagline.size == 0%}
+              <em class="lead">{{  event.tagline }}</em>
+              {% endunless %}
+
+              {% unless event.description contains 'N/A' or event.description contains 'n/a' or event.description.size == 0%}
+              <div class="row">
+                <div class="col-sm-6 offset-sm-3">
+                  <div class="alert alert-primary">
+                    {{ event.description | markdownify }}
+                  </div>
+                </div>
+              </div>
+              {% endunless%}
+
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+    {% endif %}
+
+  </div>
+
+{% include footer.html %}
