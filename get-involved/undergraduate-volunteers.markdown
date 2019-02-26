@@ -1,7 +1,7 @@
 ---
 title: Medical Undergraduate Volunteers
 date: 2018-02-26 11:14:00 -08:00
-position: 1
+position: 0
 addToNavBar: true
 volunteer:
   requirements:
