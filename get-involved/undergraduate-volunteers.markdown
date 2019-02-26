@@ -20,7 +20,7 @@ volunteer:
 info sessions:
 - Wednesday, March 6th at 8:10pm in Wellman 229.
 - Thursday, April 4th at 8:10pm in Wellman 233.
-- Wednesday, April 10th at 8:10pm in Wellman 233
+- Wednesday, April 10th at 8:10pm in Wellman 233.
 layout: simple
 ---
 
