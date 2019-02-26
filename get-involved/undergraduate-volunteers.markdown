@@ -18,9 +18,9 @@ volunteer:
     Questions?
     Please email klclinic.ucdsom@gmail.com with the subject line "QUESTION".
 info sessions:
-- 'March 7th, 2018 from 7:10 PM - 8:00 PM in Wellman 230. '
-- March 8th, 2018 from 6:10 PM - 7:00 PM in Giedt 1006.
-- 'April 4th, 2018 from 6:10 PM - 7:00 PM in Wellman 119. '
+- Wednesday, March 6th at 8:10pm in Wellman 229.
+- Thursday, April 4th at 8:10pm in Wellman 233.
+- Wednesday, April 10th at 8:10pm in Wellman 233
 layout: simple
 ---
 
