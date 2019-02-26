@@ -31,4 +31,4 @@ volunteer_description: "Education is a key component of the Knights Landing One 
 layout: volunteer
 ---
 
-The 2018 application will open on March 25th and close April 13th at 11:59pm. [Click here to apply](https://goo.gl/forms/Z53gvlTY8DhqpYj23) during those dates and times to go to the application form.
+The 2019 application will open on March 25th and close April 13th at 11:59pm. [Click here to apply](https://goo.gl/forms/Z53gvlTY8DhqpYj23) during those dates and times to go to the application form.
