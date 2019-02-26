@@ -1,5 +1,5 @@
 ---
-title: Medical Undergraduate Volunteers
+title: Medical Clinic Volunteers
 date: 2018-02-26 11:14:00 -08:00
 position: 0
 addToNavBar: true
