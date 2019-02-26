@@ -19,6 +19,10 @@ info sessions:
 - Wednesday, March 6th 2019 at 8:10pm in Wellman 229.
 - Thursday, April 4th 2019 at 8:10pm in Wellman 233.
 - Wednesday, April 10th 2019 at 8:10pm in Wellman 233.
+application_info: The 2018 application will open on March 19th and close April 7th
+  at 11:59pm. [Click here to apply](https://goo.gl/forms/qPuW5IaFDoG7fCsn2) during
+  those dates and times to go to the application form. [Check out our website [here](https://www2.vetmed.ucdavis.edu/onehealth/students/knights_landing/index.cfm
+  )]
 ---
 
 <div class="card">
@@ -54,3 +58,11 @@ info sessions:
     </div>
 </div>
 {% endif %}
+
+<div class="row">
+  <div class="col-sm-6 offset-sm-3">
+     <div class="alert alert-info" role="alert">
+        {{ page.application_info }}
+      </div>
+   </div>
+</div>
