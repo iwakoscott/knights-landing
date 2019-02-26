@@ -60,7 +60,7 @@ layout: volunteer
 </div>
 {% endif %}
 
-<div class="row">
+<div>
   <div class="col-sm-6 offset-sm-3">
      <div class="alert alert-info" role="alert">
         {{ page.application_info | markdownify }}
