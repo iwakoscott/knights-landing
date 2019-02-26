@@ -59,11 +59,3 @@ layout: volunteer
     </div>
 </div>
 {% endif %}
-
-<div>
-  <div class="col-sm-6 offset-sm-3">
-     <div class="alert alert-info" role="alert">
-        {{ page.application_info | markdownify }}
-      </div>
-   </div>
-</div>
