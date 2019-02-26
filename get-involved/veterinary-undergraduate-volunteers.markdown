@@ -15,6 +15,10 @@ volunteer:
   - Minimum of 5 hours of service hours outside of clinic.
   questions: "Questions? \nPlease email klohcundergrad.edu@gmail.com with the subject
     line \"QUESTION\"."
+info sessions:
+- Wednesday, March 6th 2019 at 8:10pm in Wellman 229.
+- Thursday, April 4th 2019 at 8:10pm in Wellman 233.
+- Wednesday, April 10th 2019 at 8:10pm in Wellman 233.
 ---
 
 <div class="card">
