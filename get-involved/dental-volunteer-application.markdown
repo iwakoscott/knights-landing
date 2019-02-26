@@ -18,4 +18,4 @@ volunteer_description: "The KLOHC Dental Clinic provides free dental care to the
 layout: volunteer
 ---
 
-The 2018 application will open on March 13th and close May 26th at 11:59pm. [Click here to apply](https://goo.gl/forms/n2BChGLn5AVH5vLk2) during those dates and times to go to the application form.
+The 2018 application will open on March 13th and close May 26th at 11:59pm. [Click here to apply](https://goo.gl/forms/SnWAtFdE9SPh6vuQ2) during those dates and times to go to the application form.
