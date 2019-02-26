@@ -1,5 +1,5 @@
 ---
-title: Undergraduate Volunteers
+title: Medical Undergraduate Volunteers
 date: 2018-02-26 11:14:00 -08:00
 position: 0
 addToNavBar: true
@@ -18,9 +18,9 @@ volunteer:
     Questions?
     Please email klclinic.ucdsom@gmail.com with the subject line "QUESTION".
 info sessions:
-- 'March 7th, 2018 from 7:10 PM - 8:00 PM in Wellman 230. '
-- March 8th, 2018 from 6:10 PM - 7:00 PM in Giedt 1006.
-- 'April 4th, 2018 from 6:10 PM - 7:00 PM in Wellman 119. '
+- Wednesday, March 6th 2019 at 8:10pm in Wellman 229.
+- Thursday, April 4th 2019 at 8:10pm in Wellman 233.
+- Wednesday, April 10th 2019 at 8:10pm in Wellman 233.
 layout: simple
 ---
 
@@ -61,9 +61,9 @@ layout: simple
 <div class="text-center m-3">
 <div class="btn-group-vertical btn-group-lg" role="group" aria-label="button group">
 <a class="purple-button btn btn-lg btn-success p-4" href="{{site.url}}/get-involved/clinic-volunteer-application.html">
-Clinic Volunteers</a>
+Medical Clinic Volunteers</a>
 <a class="btn btn-lg btn-danger p-4" href="{{site.url}}/get-involved/dental-volunteer-application.html">
-Dental Volunteers</a>
-<a class="grey-button btn btn-lg btn-primary p-4" href="{{site.url}}/get-involved/klhep-volunteer-application.html">KLHEP Volunteers</a>
+Dental Clinic Volunteers</a>
+<a class="grey-button btn btn-lg btn-primary p-4" href="{{site.url}}/get-involved/klhep-volunteer-application.html">Health Education Volunteers</a>
 </div>
 </div>

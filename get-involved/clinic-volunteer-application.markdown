@@ -1,7 +1,7 @@
 ---
 title: Clinic Volunteer Application
 date: 2018-02-08 11:25:00 -08:00
-position: 2
+position: 3
 other events:
 - name: Interviews
   time: N/A
@@ -42,4 +42,4 @@ volunteer_description: "Undergraduate volunteers play key roles in running clini
 layout: volunteer
 ---
 
-The 2018 application will open on March 19th and close April 7th at 11:59pm. [Click here to apply](https://goo.gl/forms/FMHI31aW3qDpPHyo1) during those dates and times to go to the application form.
+The 2019 application will open on March 25th and close April 13th at 11:59pm. [Click here to apply](https://goo.gl/forms/NjVBpLwGI1JIikst1) during those dates and times to go to the application form.
