@@ -22,4 +22,4 @@ info sessions:
 layout: vet-volunteer
 ---
 
-The 2018 application will open on March 19th and close April 7th at 11:59pm. [Click here to apply](https://goo.gl/forms/qPuW5IaFDoG7fCsn2) during those dates and times to go to the application form. [Check out our website [here](https://www2.vetmed.ucdavis.edu/onehealth/students/knights_landing/index.cfm )]
+[Click here to apply](https://goo.gl/forms/qPuW5IaFDoG7fCsn2)and check out our website [here](https://www2.vetmed.ucdavis.edu/onehealth/students/knights_landing/index.cfm )
