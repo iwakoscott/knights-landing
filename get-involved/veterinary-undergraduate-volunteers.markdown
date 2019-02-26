@@ -22,4 +22,4 @@ info sessions:
 layout: vet-volunteer
 ---
 
-[Click here to apply](https://goo.gl/forms/qPuW5IaFDoG7fCsn2) and check out our website [here](https://www2.vetmed.ucdavis.edu/onehealth/students/knights_landing/index.cfm )
+[Click here to apply](https://goo.gl/forms/qPuW5IaFDoG7fCsn2) and check out our website [here](https://www2.vetmed.ucdavis.edu/onehealth/students/knights_landing/index.cfm).
