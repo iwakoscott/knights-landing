@@ -8,7 +8,7 @@ other events:
   location: N/A
   tagline: N/A
   dates: April 22nd, 2019 to April 26th, 2019
-  description: "**Applicants will be notified of interview invitation by April 27th,
+  description: "**Applicants will be notified of interview invitation by April 20th,
     2019**"
 volunteer:
   requirements:
