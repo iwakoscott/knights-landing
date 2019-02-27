@@ -17,8 +17,10 @@ other events:
   dates: |-
     April 29th, 2019
      to  May 3rd, 2019
-  description: "**Applicants will be notified of interview invitation by April 20th,
-    2019**"
+  description: |-
+    * **Applicants will be notified of interview invitation by April 20th, 2019**
+
+    * **Applicants will be notified of interview decision by May 4th, 2019**
 volunteer_description: "Education is a key component of the Knights Landing One Health
   Center. The Knights Landing Health Education Program (KLHEP) aims to provide health
   education for the Knights Landing community, specifically by working as one-on-one
