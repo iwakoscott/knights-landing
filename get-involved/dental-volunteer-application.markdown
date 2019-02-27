@@ -15,6 +15,16 @@ volunteer_description: "The KLOHC Dental Clinic provides free dental care to the
   who all aim to meet the healthcare needs of Knights Landing. Please note that although
   you do not need to speak Spanish to apply, having Spanish-speaking volunteers is
   a necessity for any given clinic day in order to fulfill the KLOHC mission. "
+other events:
+  name: Interviews
+  time: N/A
+  location: N/A
+  tagline: N/A
+  dates: |-
+    April 29th, 2019
+     to  May 3rd, 2019
+  description: "**Applicants will be notified of interview invitation by May 4th,
+    2019**"
 layout: volunteer
 ---
 
