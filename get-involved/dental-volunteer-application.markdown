@@ -16,7 +16,7 @@ volunteer_description: "The KLOHC Dental Clinic provides free dental care to the
   you do not need to speak Spanish to apply, having Spanish-speaking volunteers is
   a necessity for any given clinic day in order to fulfill the KLOHC mission. "
 other events:
-  name: Interviews
+- name: Interviews
   time: N/A
   location: N/A
   tagline: N/A
