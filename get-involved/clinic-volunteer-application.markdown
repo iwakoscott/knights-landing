@@ -7,8 +7,9 @@ other events:
   time: N/A
   location: N/A
   tagline: N/A
-  dates: April 17, 2018 to April 19, 2018
-  description: "**Applicants will be notified of interview invitation by April 13th**"
+  dates: April 22nd, 2019 to April 26th, 2019
+  description: "**Applicants will be notified of interview invitation by April 27th,
+    2019**"
 volunteer:
   requirements:
   - 'Mandatory clinic training at the end of spring quarter (approximately 8 hours
