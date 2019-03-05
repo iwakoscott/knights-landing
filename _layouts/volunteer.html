@@ -14,9 +14,11 @@
     {% endif %}
 
     <div class="card mtb-1">
+      {% if page.volunteer.requirements.size > 0 %}
       <div class="card-header">
         <h2 class="card-title">Additional {{ page.volunteer_type }}  Volunteer Requirements</h2>
       </div>
+      {% endif %}
       <div class="card-body">
           <ol>
             {% for requirement in page.volunteer.requirements %}
